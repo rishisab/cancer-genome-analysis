@@ -1,0 +1,16 @@
+Tumor_Sample_Barcode	Age	Gender	Cancer_Type	Survival_Status
+S1	45	M	AML	Alive
+S2	50	F	AML	Dead
+S3	38	M	AML	Alive
+S4	60	M	LUAD	Dead
+S5	55	F	LUAD	Alive
+S6	48	F	BRCA	Alive
+S7	52	F	BRCA	Dead
+S8	65	M	COAD	Dead
+S9	70	F	COAD	Alive
+S10	58	M	GBM	Dead
+S11	62	F	GBM	Dead
+S12	67	M	COAD	Alive
+S13	59	F	LUAD	Dead
+S14	42	M	AML	Alive
+S15	53	F	BRCA	Alive
